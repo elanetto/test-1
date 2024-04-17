@@ -1,6 +1,10 @@
 # test-1
 
+Fork the repository, to deliver create a pull request.
+
 Functions should be in "palindrome.js"
+
+To run tests locally, install packages, then in the terminal run "npm run test".
 
 ## Function 1
 
